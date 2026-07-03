@@ -1,0 +1,6 @@
+{
+  "name": "Teke Man Promotion",
+  "description": "Teke Man Promotion is a luxury platform providing premium bespoke gift sets, wedding and birthday customizations, flowers, chocolate boxes, and high-end anniversary packages with elite presentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
